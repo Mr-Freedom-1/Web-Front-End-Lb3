@@ -16,3 +16,13 @@
     width: 30px;
     height: 30px;
 }
+
+.info{
+    display: flex;
+    align-items: center;
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+}

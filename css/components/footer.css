@@ -67,4 +67,12 @@
         margin-right: 0;
         margin-bottom: 10px;
     }
+
+    .icon{
+        min-width: 30px;
+        min-height: 30px;
+        margin: 0 5px;
+    }
+
+
 }
